@@ -7,5 +7,12 @@
 //! 小技巧：
 //! 
 //! - [使 Rust doc 支持数学公式](https://stackoverflow.com/a/54573800/11457223)
+//! 
+//! 同类高 star 参考项目：
+//! 
+//! 1. <https://github.com/aylei/leetcode-rust>
+//! 2. <https://github.com/Aloxaf/LeetCode-Rust>
+//! 3. <https://github.com/netcan/Leetcode-Rust>
+//! 4. <https://github.com/cch123/leetcode-rust>
 
 pub mod p1_two_sum;
